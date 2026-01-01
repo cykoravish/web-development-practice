@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Web Development Practice
 
-## Getting Started
+A practice-first platform for learning **JavaScript and web development** through real challenges, hands-on exercises, and competitive coding experiences.
 
-First, run the development server:
+## 🎯 Goal
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+To help developers improve by **practicing real problems**, not just watching tutorials.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+This project is focused on:
+- JavaScript challenges
+- Practice-based learning
+- Competitive and timed coding (planned)
+- Scalable, production-ready architecture
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧠 Philosophy
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- Learn by building
+- Practice over theory
+- Simple, clean, and scalable codebase
+- Modern Next.js best practices
 
-## Learn More
+## 🛠 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **Next.js** (App Router, latest)
+- **TypeScript**
+- **ESLint + Prettier**
+- Modern project structure with `src/`
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🚧 Project Status
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+🚀 **In active development**  
+Features, routes, and UI will evolve step by step.
 
-## Deploy on Vercel
+## 📌 Note
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+This is a learning-focused project built with long-term scalability in mind.  
+Details about challenges, competition modes, and features will be added as development progresses.
