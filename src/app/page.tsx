@@ -17,7 +17,7 @@ export default function Home() {
           </button>
 
           <button className="px-8 py-4 rounded-full border border-gray-500 text-gray-200 font-semibold hover:bg-gray-800 transition">
-            View Roadmap
+            View Roadmap 
           </button>
         </div>
 
@@ -46,7 +46,7 @@ export default function Home() {
               ⚡ Modern JavaScript
             </h3>
             <p className="text-sm text-gray-400">
-              Learn ES6+, async JS, DOM manipulation, and best practices.
+              Learn ES6+, async JS, DOM manipulation, and best practices. code with me.
             </p>
           </div>
         </div>
