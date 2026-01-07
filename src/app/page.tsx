@@ -1,6 +1,6 @@
 export default function Home() {
   return (
-   <main className="min-h-screen bg-gradient-to-br from-indigo-600 via-purple-600 to-pink-500 flex items-center justify-center px-6">
+   <main className="min-h-screen bg-gray-800 flex items-center justify-center px-6">
       <div className="max-w-4xl text-center text-white">
         <h1 className="text-4xl md:text-6xl font-extrabold mb-6 tracking-tight">
           Web Dev Practice LMS 🚀
