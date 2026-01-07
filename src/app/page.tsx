@@ -46,7 +46,7 @@ export default function Home() {
               ⚡ Modern JavaScript
             </h3>
             <p className="text-sm text-gray-400">
-              Learn ES6+, async JS, DOM manipulation, and best practices. code with me.
+              Learn ES6+, async JS, DOM manipulation, and best practices. code with me. master teh art of js.
             </p>
           </div>
         </div>
