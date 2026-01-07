@@ -33,7 +33,7 @@ export default function Home() {
           <div className="bg-white/15 backdrop-blur-lg rounded-2xl p-6 hover:-translate-y-2 transition">
             <h3 className="text-xl font-bold mb-2">🧩 Real Projects</h3>
             <p className="text-sm opacity-90">
-              Build projects that boost your portfolio.
+              Learn javascript with live competitions
             </p>
           </div>
 
